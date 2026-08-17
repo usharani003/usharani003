@@ -182,13 +182,13 @@ https://github.com/usharani003/Smart-Wardrobe-Management-System
 ### LinkedIn
 
 ```text
-Add Your LinkedIn URL Here
+www.linkedin.com/in/usharanivilla
 ```
 
 ### Email
 
 ```text
-your-email@example.com
+usharanivilla3@gmail.com
 ```
 
 ### Portfolio Website
