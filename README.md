@@ -1,4 +1,4 @@
-# Hi there, I'm Usha Rani V 👋
+# Hi there, I'm Usha Rani Villa 👋
 
 ### Aspiring Data Analyst | BCA Graduate | MCA (IGNOU) | Data-Driven Problem Solver
 
